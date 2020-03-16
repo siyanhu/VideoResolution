@@ -1,0 +1,4 @@
+# Don't track content of these folders
+codes/output/
+codes/youku_00200_00249_l_frame/
+codes/checkpoints_5_16/
